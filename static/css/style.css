@@ -1,0 +1,8 @@
+html, body {
+  height: 100%;
+  margin: 0; /* Removes any default margin/padding */
+}
+
+.d-flex {
+  min-height: 100vh; /* Makes the div occupy the full viewport height */
+}
